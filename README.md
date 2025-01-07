@@ -3,7 +3,7 @@
 This repository contains a project focused on recognizing and classifying sign language gestures using machine learning techniques. The project is implemented in Python and uses popular libraries such as TensorFlow, Keras, and OpenCV.
 
 ## Overview
-This project is designed to address the challenge of recognizing sign language gestures, which is a critical step toward facilitating communication for individuals with hearing or speech impairments. The project leverages computer vision and deep learning to analyze hand gestures captured in images or real-time video streams. By training a convolutional neural network (CNN) on a dataset of labelled sign language gestures, the system can accurately identify and classify different signs. Additionally, the integration with OpenCV enables real-time gesture detection, making it a practical tool for real-world applications such as translation devices or assistive technologies.
+This project is designed to address the challenge of recognizing sign language gestures, which is a critical step toward facilitating communication for individuals with hearing or speech impairments. The project leverages computer vision and deep learning to analyze hand gestures captured in images. By training a convolutional neural network (CNN) on a dataset of labelled sign language gestures, the system can accurately identify and classify different signs. Additionally, the integration with OpenCV enables real-time gesture detection, making it a practical tool for real-world applications such as translation devices or assistive technologies.
 
 ## Features
 - **Data Preprocessing:** Efficient image data handling for training and testing.
